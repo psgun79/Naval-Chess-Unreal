@@ -1,4 +1,4 @@
-NavalChessUnreal/Binaries/Win64/NavalChessUnreal-Win64-Shipping.exe	2022-02-08T05:11:13.925Z
+NavalChessUnreal/Binaries/Win64/NavalChessUnreal-Win64-Shipping.exe	2022-02-08T08:16:29.220Z
 NavalChessUnreal/Binaries/Win64/OpenImageDenoise.dll	2021-12-17T02:54:11.174Z
 NavalChessUnreal/Binaries/Win64/tbb12.dll	2021-12-17T02:54:11.177Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2021-12-17T02:45:04.800Z
@@ -90,4 +90,4 @@ Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/uk.pak	2021-12-17T02:10:
 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/vi.pak	2021-12-17T02:10:12.820Z
 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-CN.pak	2021-12-17T02:10:12.822Z
 Engine/Binaries/ThirdParty/CEF3/Win64/Resources/locales/zh-TW.pak	2021-12-17T02:10:12.824Z
-NavalChessUnreal.exe	2022-02-08T05:12:47.605Z
+NavalChessUnreal.exe	2022-02-08T08:18:56.734Z
